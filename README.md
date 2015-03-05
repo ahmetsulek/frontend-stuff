@@ -170,6 +170,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
 
 ### Colors
+- [flatuicolors](http://flatuicolors.com) - Beautiful flat ui colors in a harmony
 - [chromajs](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations
 - [coolors](http://coolors.co/) - Super fast color scheme generator
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
